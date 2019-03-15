@@ -15,7 +15,7 @@ This project needs to be improved in four ways: sorting, pagination, infinite-sc
 
 [Website for app](https://asperitas.now.sh/)
 
-[Post on reddit](https://www.reddit.com/r/reactjs/comments/arox51/i_made_a_barebones_fullstack_reddit_clone_to
+[Post on reddit](https://www.reddit.com/r/reactjs/comments/arox51/i_made_a_barebones_fullstack_reddit_clone_to)
 
 ## Required Resources
 The workload for this project can be distributed as one person per task.
