@@ -28,4 +28,4 @@ Database: mongoose, NoSQL
 
 ## Whiteboard Presentation Proposal Image
 
-![Whiteboard Presentation Proposal Image](BrianDavis_AsperitasSocialNetwork.png)
+![Whiteboard Presentation Proposal Image](BrianDavis_AsperitasSocialNetwork.JPG)
